@@ -1,0 +1,15 @@
+* Hello
+** Languages
+Sorted by my willingness to work with it.
+The scale does not reflect my knowledge on a *total* language knowledge scale.
+Here's a brief:
+1. have done a hello world tutorial
+2. Have created small applications
+3. Have created several small applications
+*** Scala
+*** Java
+One of the lowest
+*** Python
+*** Lisp
+Mostly Elisp
+*** 
