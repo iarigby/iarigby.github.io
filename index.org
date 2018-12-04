@@ -1,5 +1,44 @@
+<<<<<<< HEAD
 * Hello
 ** Languages
+=======
+#+OPTIONS: num:nil toc:nil
+#+HTML_HEAD: <link rel="stylesheet" href="resume.css">
+
+#+ATTR_HTML: :class Navbar
+#+BEGIN_nav
+- [[https://twitter.com][twitter]]
+#+END_nav
+#+ATTR_HTML: :class l-Header
+* Hello
+#+BEGIN_EXPORT html
+ <div class="l-Header">
+    <div class="l-Header-col">
+      <a href="http://www.sonjastrieder.com" target="_blank">
+        <h1 class="Title">
+          <span class="u-shadow">
+            IA<br>
+            MGVDLIASHVILI
+          </span>
+          <span class="Title-sub">Software Developer</span>
+        </h1>
+      </a>
+    </div>
+    <div class="l-Header-col Contact">
+      <div>Budapest | Tbilisi</div>
+      <div><a class="u-link" href="https://github.com/iarigby" target="_blank">github.com/iarigby</a></div>
+      <div><a class="u-link" href="mailto:marvinzem@gmail.com" target="_blank">marvinzem@gmail.com</a></div>
+    </div>
+  </div>
+#+END_EXPORT
+* About me
+#+ATTR_HTML: :class l-section-title :class h3 :class u-hidden@sm-down
+** Profile
+Something about me
+
+** Languages
+#+ATTR_HTML: :class competencies
+>>>>>>> Update index.md
 Sorted by my willingness to work with it.
 The scale does not reflect my knowledge on a *total* language knowledge scale.
 Here's a brief:
