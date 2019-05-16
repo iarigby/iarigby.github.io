@@ -15,6 +15,9 @@ C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming
 *** Hackathons
 - Volunteer at 2018 BlackRock hackathon
 - Participant at HackETHon (Ericsson) 2019
+#+BEGIN_export md
+![Branching](separator2.jpg)
+#+END_export
 * Projects
 *** Bachelor's thesis - Test Case Generation Using Fuzzing in C++
 I was introduced to *LLVM* compiler infrustructure and studied the LibFuzzer library. I used an idea to implement a program which uses *Clang*'s SanitizerCoverage library 
@@ -22,9 +25,10 @@ I was introduced to *LLVM* compiler infrustructure and studied the LibFuzzer lib
 While working as an assistant at ELTE, I created an online compiler for functional programming language Clean (relative of Haskell). Backend in scala and frontend in Angular, using monaco editor.
 *** Turing Machine
 Implemented with Angular in several hours, works with multiple tapes
-*** 
 
-![Octocat](separator2.jpg)
+#+BEGIN_export md
+![Branching](separator2.jpg)
+#+END_export
 * Languages & Environmnets
 *** C++
 _..._ I've attended 
@@ -37,7 +41,9 @@ I've used it for personal scripts (for linux) and reddit crawlers.
 *** Lisp
 I have very little knowledge, mostly basic Elisp for configuring my emacs *TODO link init file* but I love the language a lot.
 
-![Octocat](iarigby.github.com/separator3.jpg)
+#+BEGIN_export md
+![Branching](separator3.jpg)
+#+END_export
 * Software Development Practices
 *** TDD
 I'm trying my best to always have my code well tested and covered. Most of my thesis was written using TDD *TODO link* and I used it for most of other projects as well *TODO? link clean compiler*
