@@ -1,18 +1,20 @@
+#+OPTIONS: toc:nil
+
 * About This Page
 
 ** About me
-_..._. As you will see on this page, I have a diverse set of interests and have small experience in each one of them. I love being introduced to new things or improving my knowledge in areas I already like.
+_I will be finishing my bachelor studies_ _..._. As you will see on this page, I have a diverse set of interests and have small experience in each one of them. I love being introduced to new things or improving my knowledge in areas I already like.
 ** What I'm interested in
 C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming & Linux, Computer Networks, Research (in computer science or aid with programming parts of natural/humanitarian sciences) 
 * Experience  
 ** Work
-*** Junior Scala Developer @ Wanari
-*** C++ Developer @ Ericsson
+- Junior Scala Developer @ Wanari
+- C++ Developer @ Ericsson
 ** School
-*** Assistant in Functional Programming
+- Assistant in Functional Programming
 ** Hackathons
-*** Volunteer at 2018 BlackRock hackathon
-*** Participant at HackETHon (Ericsson) 2019
+- Volunteer at 2018 BlackRock hackathon
+- Participant at HackETHon (Ericsson) 2019
 * Projects
 ** Bachelor's thesis - Test Case Generation Using Fuzzing in C++
 I was introduced to *LLVM* compiler infrustructure and studied the LibFuzzer library. I used an idea to implement a program which uses *Clang*'s SanitizerCoverage library 
