@@ -32,6 +32,8 @@ C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming
 -   Volunteer at 2018 BlackRock hackathon
 -   Participant at HackETHon (Ericsson) 2019
 
+![Branching](separator2.jpg)
+
 
 # Projects
 
@@ -80,7 +82,7 @@ I've used it for personal scripts (for linux) and reddit crawlers.
 
 I have very little knowledge, mostly basic Elisp for configuring my emacs **TODO link init file** but I love the language a lot.
 
-\\\![Branching](separator3.jpg)
+![Branching](separator3.jpg)
 
 
 # Software Development Practices
