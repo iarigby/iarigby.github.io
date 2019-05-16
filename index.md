@@ -53,7 +53,7 @@ Implemented with Angular in several hours, works with multiple tapes
 
 ### 
 
-\![Octocat](separator2.jpg)
+![Octocat](separator2.jpg)
 
 
 # Languages & Environmnets
@@ -82,7 +82,7 @@ I've used it for personal scripts (for linux) and reddit crawlers.
 ### Lisp
 
 I have very little knowledge, mostly basic Elisp for configuring my emacs **TODO link init file** but I love the language a lot.
-\![Octocat](iarigby.github.com/separator3.jpg)
+![Octocat](iarigby.github.com/separator3.jpg)
 
 
 # Software Development Practices
