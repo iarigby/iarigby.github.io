@@ -51,7 +51,7 @@ While working as an assistant at ELTE, I created an online compiler for function
 Implemented with Angular in several hours, works with multiple tapes
 
 
-### 
+
 
 ![Octocat](separator2.jpg)
 
@@ -82,7 +82,8 @@ I've used it for personal scripts (for linux) and reddit crawlers.
 ### Lisp
 
 I have very little knowledge, mostly basic Elisp for configuring my emacs **TODO link init file** but I love the language a lot.
-![Octocat](iarigby.github.com/separator3.jpg)
+
+![Octocat](https://iarigby.github.com/separator3.jpg)
 
 
 # Software Development Practices
