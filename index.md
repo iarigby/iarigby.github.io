@@ -16,18 +16,18 @@ C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming
 # Experience
 
 
-## Work
+### Work
 
 -   Junior Scala Developer @ Wanari
 -   C++ Developer @ Ericsson
 
 
-## School
+### School
 
 -   Assistant in Functional Programming
 
 
-## Hackathons
+### Hackathons
 
 -   Volunteer at 2018 BlackRock hackathon
 -   Participant at HackETHon (Ericsson) 2019
@@ -36,63 +36,63 @@ C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming
 # Projects
 
 
-## Bachelor's thesis - Test Case Generation Using Fuzzing in C++
+### Bachelor's thesis - Test Case Generation Using Fuzzing in C++
 
 I was introduced to **LLVM** compiler infrustructure and studied the LibFuzzer library. I used an idea to implement a program which uses **Clang**'s SanitizerCoverage library 
 
 
-## Online compiler for Clean language
+### Online compiler for Clean language
 
 While working as an assistant at ELTE, I created an online compiler for functional programming language Clean (relative of Haskell). Backend in scala and frontend in Angular, using monaco editor.
 
 
-## Turing Machine
+### Turing Machine
 
 Implemented with Angular in several hours, works with multiple tapes
 
 
-## 
-
-
-# Software Development Practices
-
-
-## TDD
-
-I'm trying my best to always have my code well tested and covered. Most of my thesis was written using TDD **TODO link** and I used it for most of other projects as well **TODO? link clean compiler**
-
-
-## Continuous integration & deployment
-
-I've used gitlab's integrated <span class="underline">&#x2026;</span>. For a school project, my team was using an AWS instance for the giltab runner.
+### 
 
 
 # Languages & Environmnets
 
 
-## C++
+### C++
 
 <span class="underline">&#x2026;</span> I've attended 
 
 
-## Scala
+### Scala
 
 I worked primarily with Scala at Wanari and am still in love with it. I was introduced to **Akka** framework (streams, actor system, HTTP) and **shapeless** library briefly
 
 
-## Javascript, Typescript
+### Javascript, Typescript
 
 I did several small projects with **Node**, **Angular** and **Vue**. 
 
 
-## Python
+### Python
 
 I've used it for personal scripts (for linux) and reddit crawlers.
 
 
-## Lisp
+### Lisp
 
 I have very little knowledge, mostly basic Elisp for configuring my emacs **TODO link init file** but I love the language a lot.
+
+
+# Software Development Practices
+
+
+### TDD
+
+I'm trying my best to always have my code well tested and covered. Most of my thesis was written using TDD **TODO link** and I used it for most of other projects as well **TODO? link clean compiler**
+
+
+### Continuous integration & deployment
+
+I've used gitlab's integrated <span class="underline">&#x2026;</span>. For a school project, my team was using an AWS instance for the giltab runner.
 
 
 # other
