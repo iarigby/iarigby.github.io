@@ -3,19 +3,18 @@
 * About This Page
 
 ** About me
-_I will be finishing my bachelor studies_ _..._. As you will see on this page, I have a diverse set of interests and have small experience in each one of them. I love being introduced to new things or improving my knowledge in areas I already like.
-** What I'm interested in
-C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming
-& Linux, Computer Networks, Research (in computer science or aid with
-programming parts of natural/humanitarian sciences)
-* Education
-* Work Experience
+As you will see on this page, I have a diverse set of interests and have small experience in each one of them. I love being introduced to new things or improving my knowledge in areas I already like, so I'm open in exploring anything, including (but not limited to):
+
+C++, Scala, Haskell, Rust, Java, Python, Javascript, DevOps, Systems Programming & Linux, Computer Networks, Research (in computer science or aid with programming parts of natural/humanitarian sciences) 
+* Experience  
+*** Education
+- Computer Science, ELTE Budapest 2016-2019
+>>>>>>> I'm too lazy to run git diff
 *** Work
-- Junior Scala Developer @ Wanari
-- C++ Developer @ Ericsson
-*** School
-- Assistant in Functional Programming
-*** Hackathons
+- Junior Scala Developer @ Wanari 2018.03-2019.01
+- C++ Developer @ Ericsson 2018
+*** Other
+- Assistant in Functional Programming at ELTE
 - Volunteer at 2018 BlackRock hackathon
 - Participant at HackETHon (Ericsson) 2019
 #+BEGIN_export md
@@ -32,11 +31,11 @@ While working as an assistant at ELTE, I created an online compiler for function
 *** Turing Machine
 Implemented with Angular in several hours, works with multiple tapes
 #+BEGIN_export md
-![Branching](separator2.jpg)
+![Branching](separator3.jpg)
 #+END_export
 * Languages & Environmnets
 *** C++
-_..._ I've attended 
+_..._ I've attended workshop, meetup and public lecture by Bjarne Stroustroup when he was visiting Budapest in May
 *** Scala
 I worked primarily with Scala at Wanari and am still in love with it. I was introduced to *Akka* framework (streams, actor system, HTTP) and *shapeless* library briefly
 *** Javascript, Typescript
@@ -47,12 +46,12 @@ I've used it for personal scripts (for linux) and reddit crawlers.
 I have very little knowledge, mostly basic Elisp for configuring my emacs *TODO link init file* but I love the language a lot.
 
 #+BEGIN_export md
-![Branching](separator3.jpg)
+![Branching](separator4.jpg)
 #+END_export
 * Software Development Practices
 *** TDD
 I'm trying my best to always have my code well tested and covered. Most of my thesis was written using TDD *TODO link* and I used it for most of other projects as well *TODO? link clean compiler*
-*** Continuous integration & deployment
-I've used gitlab's integrated _..._. For a school project, my team was using an AWS instance for the giltab runner.
+*** CI & CD
+I've used gitlab's integrated DevOps on several personal projects. For a school assignment, my team was using an AWS *Docker* instance for the giltab runner for building and deploying.
 * other
 I have several years of marketing & social media experience, as well as some other areas I won't be mentioning because of not being very relevant
